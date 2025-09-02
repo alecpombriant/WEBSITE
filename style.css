@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://64.media.tumblr.com/fd75d30c202ce8d857fa357843c019be/tumblr_n3kzc8A1dm1rgnryjo1_1280.jpg);
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 50%;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-family: "Poiret One", cursive;
+  padding: 75px;
+  text-align: center;
+  height: 768px;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+.music {
+  padding: 50px;
+  text-align: center;
+}
